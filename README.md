@@ -1,4 +1,4 @@
 # mensadev
 Wip
 
-Unanse al proyecto todos los que quieran oarticipar, la idea es saber cuantos somos para ver que hacemos.
+Unanse al proyecto poniendo watch todos los que quieran participar, la idea es saber cuantos somos para ver que hacemos.
